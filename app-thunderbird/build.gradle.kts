@@ -11,8 +11,8 @@ android {
     namespace = "net.thunderbird.android"
 
     defaultConfig {
-        applicationId = "net.thunderbird.android"
-        testApplicationId = "net.thunderbird.android.tests"
+        applicationId = "ir.vatanmail.android"
+        testApplicationId = "ir.vatanmail.android.tests"
 
         versionCode = 4
         versionName = "20.0"
