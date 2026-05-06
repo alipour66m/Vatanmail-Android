@@ -5,6 +5,8 @@ enableFeaturePreview("TYPESAFE_PROJECT_ACCESSORS")
 pluginManagement {
     includeBuild("build-plugin")
     repositories {
+        maven { url = uri("https://maven.myket.ir") }
+
         google {
             mavenContent {
                 includeGroupAndSubgroups("androidx")
